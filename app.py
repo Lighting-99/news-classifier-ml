@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 
 # 1. Page Configuration
-st.set_page_config(page_title="Global News Portal", layout="wide", page_icon="📰")
+st.set_page_config(page_title="News Portal", layout="wide", page_icon="📰")
 
 # 2. Load Resources (Model & Database)
 @st.cache_resource
@@ -74,7 +74,7 @@ if st.session_state.page == "Admin":
                     else:
                         st.error("Invalid credentials")
     else:
-        tab_manual, tab_bulk = st.tabs(["Manual Upload", "Bulk File Upload"])
+        tab_manual, tab_bulk = st.tabs(["Text Upload", "File Upload"])
         
         # --- MANUAL UPLOAD ---
         with tab_manual:
@@ -147,7 +147,7 @@ else:
 
     # LIST VIEW (HOME)
     else:
-        st.title("🌐 Latest Global News")
+        st.title("🌐 Latest News")
         tabs = st.tabs(["All News"] + category_list)
         
         def render_news_cards(query, tab_id):
