@@ -120,7 +120,7 @@ if st.session_state.page == "Admin":
                                    (title, content, cat, conf, datetime.now().strftime("%Y-%m-%d %H:%M")))
                     
                     # Show result for each file immediately
-                    st.write(f"📄 **{title}** classified as **{cat}** ({conf:.2%} confidence)")
+                    st.write(f"📄 **{title}** classified as **{cat}** ")
                 
                 db_conn.commit()
                 st.success(f"Published {len(files)} articles successfully.")
