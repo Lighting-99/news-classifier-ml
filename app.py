@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 
 # 1. Page Configuration
-st.set_page_config(page_title="Global News Portal", layout="wide", page_icon="📰")
+st.set_page_config(page_title="News Portal", layout="wide", page_icon="📰")
 
 # 2. Load Resources (Model & Database)
 @st.cache_resource
