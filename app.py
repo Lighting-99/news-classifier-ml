@@ -127,7 +127,7 @@ else:
 
     # LIST VIEW (HOME)
     else:
-        st.title("🌐 Latest Global News")
+        st.title("🌐 News")
         tabs = st.tabs(["All News"] + category_list)
         
         def render_news_cards(query, tab_id):
