@@ -1,0 +1,17 @@
+Tens of thousands of students studying for final exams around the world Friday regained access to a key online learning system after a cyberattack had earlier knocked it offline, throwing schools and universities into turmoil.
+
+Elizabeth Polo was in a creative writing class at the University of Maryland late Thursday afternoon when a classmate shouted, “Canvas got hacked.” A message from a hacking collective flashed on her computer screen.
+
+“Our whole class just like was like freaking out about it,” said Polo, a junior. “Our poor professor was trying to get everyone to calm down but it was just kind of chaos.”
+
+Across academia, the outage set off panic and confusion as students and faculty members found themselves locked out of a platform they rely on to manage grades and access course notes and assignments. Colleges scrambled to reschedule final exams as students lost any way to access materials they needed to study.
+
+Instructure, the company behind Canvas, said in an update late Thursday that the system was available for most users.
+
+“Instructure discovered the unauthorized actor involved in our ongoing security incident made changes to the pages that appeared when some students and teachers were logged in,” Instructure said Friday in a statement. “Out of an abundance of caution, we immediately took Canvas offline to contain access and further investigate."
+
+Instructure also said it confirmed that the unauthorized actor exploited an issue related to its Free-For-Teacher accounts. The company has temporarily shut down those accounts.
+
+Instructure did not say whether it paid a ransom nor has it said what happened with the compromised data.
+
+Rich in digitised data, the nation’s schools are prime targets for far-flung criminal hackers, who are assiduously locating and scooping up sensitive files that not long ago were committed to paper in locked cabinets. Past attacks have hit Minneapolis Public Schools and the Los Angeles Unified School District
